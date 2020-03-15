@@ -5,3 +5,6 @@
 <p>!!! Letakan file deface kalian di folder BotSatosi !!!</p>
 <h2>Run:</h2>
 <p>python satosi.py</p>
+<br>
+<br>
+<img src="Screenshot_2020-03-15-18-23-17-809_com.termux.png">
