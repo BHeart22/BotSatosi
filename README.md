@@ -8,3 +8,4 @@
 <br>
 <br>
 <img src="Screenshot_2020-03-15-18-23-17-809_com.termux.png">
+<img src="Screenshot_2020-03-15-18-24-53-738_com.android.chrome.png">
